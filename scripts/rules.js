@@ -1,6 +1,8 @@
 var trinity = [];
 var score = 0;
 
+var answers = getElementByID('playerName')
+
 function scorecheck(){
 	if(answers="[1,5,9],[2,6,10],[3,7,11],[4,8,12],[9,6,3],[1,6,11],[2,7,12],[10,7,4]"){
 		if(answers = trinity){
