@@ -1,4 +1,4 @@
-//$(document.ready(function(){
+$(document.ready(function(){
 //		var dataSet = [
 //		['R#','TR1','TR2','TR3','Q','TN',"TS"],
 //		['R#','TR1','TR2','TR3','Q','TN',"TS"],
